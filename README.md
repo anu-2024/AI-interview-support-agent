@@ -220,6 +220,7 @@ git push -u origin main
 ---
 
 ## Author
+ANU A
 
 MCA Final Year Project
 
