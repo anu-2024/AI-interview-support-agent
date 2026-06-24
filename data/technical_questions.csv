@@ -1,0 +1,33 @@
+category,question,difficulty
+Python,What is Python?,Easy
+Python,What are Python decorators?,Medium
+Python,What is the difference between list and tuple?,Easy
+Python,Explain generators in Python.,Medium
+Python,What is multithreading in Python?,Hard
+Java,What is JVM?,Easy
+Java,Explain OOP concepts in Java.,Medium
+Java,What is inheritance?,Easy
+DBMS,What is normalization?,Medium
+DBMS,Explain ACID properties.,Hard
+DBMS,What is a primary key?,Easy
+SQL,Difference between DELETE and TRUNCATE.,Medium
+SQL,What is a JOIN?,Easy
+SQL,Explain INNER JOIN and LEFT JOIN.,Medium
+Operating Systems,What is a process?,Easy
+Operating Systems,What is a thread?,Medium
+Operating Systems,Explain deadlock.,Hard
+Computer Networks,What is TCP/IP?,Easy
+Computer Networks,Difference between TCP and UDP.,Medium
+Computer Networks,What is DNS?,Easy
+Data Structures,What is a linked list?,Easy
+Data Structures,Difference between stack and queue.,Easy
+Data Structures,Explain binary tree.,Medium
+Algorithms,What is Big O notation?,Medium
+Algorithms,Explain binary search.,Medium
+Machine Learning,What is supervised learning?,Easy
+Machine Learning,Difference between classification and regression.,Medium
+Machine Learning,What is overfitting?,Medium
+Deep Learning,What is a neural network?,Medium
+NLP,What is tokenization?,Easy
+Django,What is Django ORM?,Medium
+Django,Explain MVC architecture.,Medium
